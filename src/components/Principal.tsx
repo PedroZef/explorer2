@@ -27,7 +27,7 @@ export function Principal() {
                 <li className="font-bold bg-violet-700 rounded px-20 py-4 hover:bg-orange-600 transition-colors cursor-pointer">
                     <a
                         href="https://twitter.com/zefpedro"
-                        target="_blank">🐦 Twitter
+                        target="_blank">🐦Twitter
                     </a>
                 </li>
                 <li className="font-bold bg-blue-900 rounded px-20 py-4 hover:bg-green-800 transition-colors cursor-pointer">
