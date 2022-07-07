@@ -8,7 +8,7 @@ export function Principal() {
                     alt="Image do Pedro Zeferino da Silva"
                 />
             </div>
-            <h1 className="text-4xl font-bold">Pedro Zeferino da Silva </h1>
+            <h1 className="text-3xl font-bold">Pedro Zeferino da Silva </h1>
             <p className="opacity-100 font-bold text-lg">@zefpedro</p>
 
             <ul className="flex flex-col gap-2 mt-5 text-gray-50 text-sm">
