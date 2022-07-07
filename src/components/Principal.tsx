@@ -18,7 +18,7 @@ export function Principal() {
                         target="_blank">💼 Linkedin
                     </a>
                 </li>
-                <li className="font-bold bg-blue-500 rounded px-20 py-4 hover:bg-red-700 transition-colors cursor-pointer">
+                <li className="font-bold bg-blue-700 rounded px-20 py-4 hover:bg-red-700 transition-colors cursor-pointer">
                     <a
                         href="https://instagram.com/zefpedro"
                         target="_blank">📷 Instagram
